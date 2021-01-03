@@ -1,0 +1,6 @@
+*.xcuserstate
+*.DS_Store
+*.DS_Store?
+*.xcworkspace
+ToDo/Pods/
+ToDo/Podfile.lock
